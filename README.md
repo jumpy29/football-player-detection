@@ -8,3 +8,5 @@ This project focuses on **detecting football players in match clips** using Stat
 - Annotated video output with detected players
 - Player team assignment using Kmeans clustering
 
+https://github.com/user-attachments/assets/a1c1d563-d8a5-4386-8578-efe46ab831f2
+
